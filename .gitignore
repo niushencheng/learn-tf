@@ -1,0 +1,14 @@
+target
+.project
+.classpath
+.settings
+*.iml
+/.idea/
+.gradle
+*.DS_Store
+*.sql
+classes/
+rebel.xml
+#.gitlab-ci.yml
+#/bin/
+csc-paas-web/logs/jetty.*
